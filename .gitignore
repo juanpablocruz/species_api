@@ -1,4 +1,12 @@
-.env
+*env/
+*.env
+
+
+__pycache__/
+.cache/
+.keras/
+.config/
+
 .DS_Store
 env/
 images/
